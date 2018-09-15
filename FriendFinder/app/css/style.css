@@ -1,0 +1,42 @@
+body, .modal-body, .modal-header, .modal-footer
+{
+	background:navy;
+}
+
+/*home.html Jumbotron*/
+.jumbotron
+{
+	margin-top: 2%;
+	background: green;
+}
+
+.jumbotron h1 
+{
+	font-family: 'Passion One', cursive;
+	color: white;
+}
+
+h2, h3, h4
+{
+	color: white;
+}
+
+.jumbotron img
+{
+	width: 15%;
+	border-radius: 20%;
+}
+
+
+
+
+.form-control
+{
+	max-width: 50%;
+}
+
+
+#matchImg
+{
+	width: 100%;
+}
